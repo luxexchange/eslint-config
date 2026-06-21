@@ -5,7 +5,7 @@
   "repository": "https://github.com/luxexchange/eslint-config",
   "homepage": "https://github.com/luxexchange/eslint-config#readme",
   "bugs": "https://github.com/luxexchange/eslint-config/issues",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "scripts": {
     "lint": "nx lint eslint-config",
     "lint:fix": "nx lint:fix eslint-config",
